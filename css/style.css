@@ -1,0 +1,155 @@
+body{
+    background-image: url('../images/background-home.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+
+header{
+    height: 75px;
+    border-bottom: 1px solid black;
+    background-color: slategray;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+main{
+    
+
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.Naam{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#footer-home{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 60px;
+    background-color: slategray;
+    
+}
+
+#footer-project{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 153px;
+    background-color: slategray;
+    
+}
+
+#footer-contacten{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 370px;
+    background-color: slategray;
+    
+}
+
+#footer-over-mij{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 210px;
+    background-color: slategray;
+    
+}
+
+#footer-cv{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 460px;
+    background-color: slategray;
+    
+}
+
+#footer-vaardigheden{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 460px;
+    background-color: slategray;
+    
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+li{
+    width: 100px;
+    height: 30px;
+    background-color: lightblue;
+    border: 1px solid black;
+    margin-right: 100px;
+    display: inline-block;
+    box-shadow: -2px 2px 3px black;
+    text-align: center;
+    
+}
+
+a{
+    color: white;
+}
+
+img{
+    width: 100px;
+    height: 50px;
+    
+}
+
+#color-menu{
+    background-color: slategray;
+    box-shadow: 2px 2px 3px black;
+}
+
+#vlaggen{
+    height: 20px;
+    color: black;
+   
+
+
+}
+
+#schilderij{
+    height: 20px;
+    color: black;
+   
+
+}
+
+#rekenmachine{
+    height: 20px;
+    color: black;
+   
+
+
+}
+
+#over-mij{
+    font-size: 20px;
+    color: black
+}
+
+#qp_all2596335{
+    margin-left: 1150px;
+    margin-top: 17%; 
+}
